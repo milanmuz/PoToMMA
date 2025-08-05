@@ -1,5 +1,5 @@
 # PoToMMA
-Post-Tonal Music Midi File Analyzer
+Post-Tonal Music Midi (File) Analyzer
 
 Python script for analyzing MIDI files to determine their musical characteristics, with a special focus on identifying atonal tendencies and detecting twelve-tone rows.
 The script uses the `music21` library for musicological analysis and `mido` for MIDI file manipulation. 
