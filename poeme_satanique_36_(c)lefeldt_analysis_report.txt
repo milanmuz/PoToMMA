@@ -1,0 +1,43 @@
+## Musicological Analysis: Poeme Satanique by Alexander Scriabin
+
+This report presents a comprehensive musicological analysis of Alexander Scriabin's 'Poeme Satanique', as interpreted through the provided MIDI data. The analysis will integrate findings regarding the piece's form, tonality, structure, compositional techniques, and historical context, specifically addressing the interplay between functional tonality, modality, tonal centers, and any challenging atonal or serial elements.
+
+### 1. Historical and Stylistic Context
+
+Alexander Scriabin (1872-1915) was a pivotal figure in the late Romantic and early 20th-century Russian musical landscape. His work is characterized by a unique blend of mysticism, theosophy, and highly individual harmonic and melodic language that moved progressively away from traditional functional tonality. 'Poeme Satanique', as its title suggests, likely embodies some of the darker, more dramatic, or perhaps transgressive aspects of Scriabin's philosophical explorations. This places the piece firmly within his mature period, where traditional harmonic syntax is increasingly expanded, if not outright dissolved, in favor of complex, often dissonant, synthetic sonorities and a fluid, rhapsodic approach to form and rhythm.
+
+### 2. Form and Structure
+
+The overall structure of 'Poeme Satanique' appears to follow a large-scale, multi-sectional design, likely inspired by programmatic or narrative elements implied by its title. The prominent **key changes** serve as significant markers for formal divisions:
+*   Initial section in C major (Offset 0.00)
+*   Transition to E major (Offset 163.50)
+*   Shift to A-flat major (Offset 277.50)
+*   Return to C major (Offset 433.50), suggesting a large-scale ternary (A-B-A') or sonata-like form, where the initial C major returns as a point of resolution or recapitulation.
+
+The **temporal flexibility** is a defining structural characteristic. The piece features an astonishing 237 measures and 715.5 quarter lengths, but its duration is punctuated by an exceedingly high number of **tempo indications** (over 200 changes). These rapid and frequent fluctuations between slow (e.g., 36 bpm) and fast (e.g., 240 bpm) tempos suggest a highly rhapsodic, improvisatory, and emotionally volatile structure rather than a strictly metronomic or symmetrical one. This fluidity is further compounded by the constant **time signature changes** (1/8, 6/8, 13/16, etc.), which disrupt any sense of predictable metric pulse and contribute to a prose-like, non-square rhythmic feel. These elements collectively point to a sectional form driven by dramatic shifts in mood and texture, typical of Scriabin's expressive narratives.
+
+### 3. Tonality and Harmony
+
+The piece presents a fascinating and characteristic case study of Scriabin's evolving harmonic language, balancing remnants of functional tonality with highly advanced, post-tonal concepts.
+
+The **Global Key Correlation Score of -1.00** initially suggests a complete abandonment of traditional functional tonality across the entire work. However, this is immediately qualified by the explicit **key signature changes** to C major, E major, and A-flat major. This paradox is central to Scriabin's style: while the overall harmonic progression may not adhere to classical functional relationships (hence the low global correlation), specific sections are clearly anchored by **tonal centers**. The relationship between these keys (C-E-A-flat) is one of major thirds, a common symmetrical and non-diatonic key relationship favored by late Romantic and early 20th-century composers for its destabilizing yet organized quality. This suggests an "expanded tonality" or "post-tonal" approach rather than full atonality, where tonal poles exist but are connected in unconventional ways.
+
+Further evidence of **tonal centers** comes from the **Pitch Class Distribution**. C (13.7%), G# (11.6%), and E (10.6%) are the most frequently occurring pitch classes. This directly correlates with the declared key centers of C major, E major, and A-flat major (G# enharmonically). The uneven distribution (Std Dev: 110.74, if this implies high variability) further reinforces the idea that certain pitch classes are indeed more prominent, serving as gravitational centers, even if their surrounding harmonic context is non-traditional.
+
+Harmonically, the presence of **"C augmented" and "F augmented"** among the most common chords (118 and 84 occurrences respectively) is highly significant. Augmented triads are inherently symmetrical and non-functional in a traditional sense, often used by Scriabin to create a sense of floating, unresolved tension and mystical allure. The dominance of "C other," "E other," and "F other" chords (176, 127, 123 occurrences) further points to the importance of these roots, aligning with the observed tonal shifts. While "C major" and "F major" chords also appear frequently (69 and 70 occurrences), their co-existence with a high percentage of **dissonant intervals (33.3%)** indicates a harmonic language where dissonance is not merely a passing phenomenon but an integral part of the sonic fabric.
+
+The **Top 10 Melodic/Simultaneous Intervals** reveal the prominent role of the **tritone** (d5 and A4, 211 and 158 occurrences respectively) alongside perfect octaves (P8) and major/minor thirds (M3, m3). The tritone is the most harmonically unstable interval in tonal music and forms the basis of Scriabin's characteristic synthetic chords (e.g., the "Prometheus Chord"). Its pervasive presence, even while traditional perfect and imperfect consonances remain, underscores the piece's highly chromatic and dissonant but not fully atonal harmonic vocabulary.
+
+### 4. Compositional Techniques: Absence of Serialism
+
+Crucially, the **Twelve-Tone Analysis by Segment** unequivocally states that **no contiguous 12-tone rows (all 12 unique pitch classes)** were found in any of the 36 segments. This definitively rules out strict Schoenbergian twelve-tone serialism as a compositional technique in 'Poeme Satanique'. Scriabin, while moving away from conventional tonality, predates and did not employ the rigorous serial methods developed later in the 20th century. His approach is better described as **expanded tonality** or **post-tonality**, characterized by:
+*   **Chromatic Saturation:** The high number of distinct pitch classes and the significant percentage of dissonant intervals suggest a saturation of the chromatic spectrum, where all 12 tones are frequently used, but without serial ordering principles.
+*   **Symmetrical Harmonies:** The prevalence of augmented chords points towards Scriabin's interest in symmetrical sonorities that lack a clear tonal center in a traditional functional sense but still create specific harmonic colors and tensions.
+*   **Non-functional Progressions:** While tonal centers exist, the way chords connect and move often bypasses traditional dominant-tonic relationships, favoring voice leading based on common tones, symmetrical motion, or the internal logic of his synthetic chords.
+*   **Rhapsodic Development:** The frequent tempo and time signature changes, combined with a single-part texture (likely piano), suggest a focus on dramatic, unfolding melodic and harmonic gestures rather than strict thematic development or clear sectional repetition.
+
+### 5. Conclusion
+
+'Poeme Satanique' by Alexander Scriabin emerges from this analysis as a quintessential work of **expanded tonality** from the early 20th century. It does not exhibit **atonal or serial elements** in the strict sense of the Second Viennese School. Instead, it maintains **tonal centers** (C, E, A-flat) that provide large-scale structural anchors, even as these centers are reached and departed from via **non-functional, often symmetrical harmonic progressions** and saturated chromaticism.
+
+The frequent use of augmented chords and the high incidence of tritones underscore Scriabin's distinctive harmonic language, where dissonance is a primary expressive tool, contributing to the work's "satanic" or tumultuous character. The extreme fluctuations in tempo and meter further enhance the piece's highly subjective, rhapsodic, and dramatic qualities. In essence, 'Poeme Satanique' challenges conventional functional tonality by stretching its boundaries to the breaking point through chromatic saturation and idiosyncratic harmonic vocabulary, yet it stops short of complete atonality, maintaining a gravitational pull towards specific tonal poles. This positions the work as a crucial bridge between late Romanticism and the radical harmonic innovations of the modern era.
